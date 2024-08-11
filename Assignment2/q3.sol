@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Greeting Contract
-/// @author Chirag Mali
 /// @notice This contract allows a user to set and get a personalized greeting message.
 contract Greeting {
     string private greeting;

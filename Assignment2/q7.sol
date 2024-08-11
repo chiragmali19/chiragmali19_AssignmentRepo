@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Owner Access Contract
-/// @author Chirag Mali
 /// @notice This contract restricts certain functions to only the contract owner.
 contract OwnerAccess {
     address private owner;

@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Simple Counter Contract
-/// @author Chirag Mali
 /// @notice This contract keeps track of a count and allows it to be incremented.
 contract SimpleCounter {
     uint private count;

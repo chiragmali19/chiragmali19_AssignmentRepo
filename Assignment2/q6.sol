@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Basic Voting Contract
-/// @author Chirag Mali
 /// @notice This contract allows users to vote for a candidate and keeps track of votes.
 contract BasicVoting {
     mapping(string => uint) private votes;

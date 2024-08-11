@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Message Storage Contract
-/// @author Chirag Mali
 /// @notice This contract allows a user to store and retrieve a message string.
 contract MessageStorage {
     string private message;

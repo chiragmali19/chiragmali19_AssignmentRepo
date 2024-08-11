@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Simple Storage Contract
-/// @author Chirag Mali
 /// @notice This contract allows storing and retrieving a single integer value.
 contract SimpleStorage {
     uint private storedValue;

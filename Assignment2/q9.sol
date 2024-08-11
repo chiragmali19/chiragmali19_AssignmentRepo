@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Simple Ledger Contract
-/// @author Chirag Mali
 /// @notice This contract maintains a ledger of transactions with basic entries.
 contract SimpleLedger {
     struct Transaction {

@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Event Logging Contract
-/// @author Chirag Mali
 /// @notice This contract logs events when certain actions are performed.
 contract EventLogging {
     event ActionPerformed(address indexed performer, string action);

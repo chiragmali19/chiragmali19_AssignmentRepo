@@ -2,7 +2,6 @@
 pragma solidity ^0.8.0;
 
 /// @title Name Storage Contract
-/// @author Chirag Mali
 /// @notice This contract allows storing and retrieving a user's name.
 contract NameStorage {
     string private name;
